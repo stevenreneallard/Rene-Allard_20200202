@@ -15,7 +15,7 @@
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 * #### Projecteur de lumière
 * #### Deux panneaux de contrôle
-* #### Panneau d'affichage
+* #### Deux panneau d'affichage
 * #### Cadran de pression
 * #### Balais (ce qui permet le nettoyage)
 * #### Vaporisateur d'eau (au cas ou le sable est trop sec)
