@@ -17,6 +17,7 @@
 * #### Deux panneaux de contrôle
 * #### Deux panneau d'affichage
 * #### Cadran de pression
+* #### Boite à pression
 * #### Balais (ce qui permet le nettoyage)
 * #### Vaporisateur d'eau (au cas ou le sable est trop sec)
 * #### Cuve à sable 
