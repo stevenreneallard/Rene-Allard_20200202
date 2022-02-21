@@ -23,6 +23,7 @@
 * #### Tuyau d'humidification 
 * #### Tuyau d'aspiration (ce qui permet de déplacer le sable de la cuve au tapis)
 * #### Distributrice d'eau
+* #### Tobogant (ce qui permet de déposer le sable sur le tapis)
 * #### Tapis roulant 
 * #### Chaîne de montagne (morceaux d'acier qui modèle la montagne de sable)
 * #### Fils de branchement
