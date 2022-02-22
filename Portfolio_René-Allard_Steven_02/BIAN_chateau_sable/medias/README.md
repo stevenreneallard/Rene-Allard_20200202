@@ -15,4 +15,4 @@ Ce dossier contient les photos et videos de l'oeuvre.
 ![image_distributrice_eau](https://user-images.githubusercontent.com/98911722/154889004-0d5d88b0-074e-47b7-b566-6fc15d15b966.jpg)
 ![image_creation](https://user-images.githubusercontent.com/98911722/154889010-739a5e5f-0966-4e2b-ab1e-dae019ad8e30.jpg)
 ![image_cartel](https://user-images.githubusercontent.com/98911722/154889014-b7ecf58d-5d65-4533-8ba8-8b752e0449a8.jpg)
-![image_principale-321](https://user-images.githubusercontent.com/98911722/155058452-298d1e2e-6d71-47f0-b534-2599ea695505.jpg)
+![image-principale](https://user-images.githubusercontent.com/98911722/155059072-1be456dc-3644-4cc3-9b56-965312922d15.jpg)
