@@ -12,7 +12,7 @@ Ce dossier contient les photos et videos de l'oeuvre.
 * Panneau de contrôle 1:
 ![image_panneau_controle_1](https://user-images.githubusercontent.com/98911722/155061502-c9c2fece-f0cc-4107-991d-51b356376cde.jpg)
 
-* Panneau d'affichage 2:
+* Panneau de contrôle 2:
 ![image_controle_2](https://user-images.githubusercontent.com/98911722/155061605-699fbc51-e7d8-4117-89b1-0c8e64e55132.jpg)
 
 * Cadran de pression:
