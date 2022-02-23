@@ -1,3 +1,4 @@
+Je n'ai pas réussi à mettre mes médias dans leur dossier individuel.
 
 ![image_boite_pression](https://user-images.githubusercontent.com/98911722/155264013-5b6fcbb6-faa8-466a-968f-376730c36c2e.jpg)
 ![image_branchement](https://user-images.githubusercontent.com/98911722/155264017-28661b6c-f951-4f8a-85ec-ee2f71657081.jpg)
