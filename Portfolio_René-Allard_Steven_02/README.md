@@ -3,3 +3,4 @@
 * #### Contagion de la terreur
 * #### Horloge d'appocalypse
 * #### Musée des arts
+* #### Salle Claude-Legault
