@@ -2,5 +2,5 @@
 * #### BIAN
 * #### Contagion de la terreur
 * #### Horloge d'appocalypse
-* #### Musée des arts
+* #### Configuration du sensible
 * #### Salle Claude-Legault
