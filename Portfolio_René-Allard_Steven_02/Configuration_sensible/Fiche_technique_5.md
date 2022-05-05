@@ -10,10 +10,11 @@
 * #### Visité le 9 mars
 
 ### Cartel:
-![image_cartel_oeuvre_5](Medias/image_cartel_oeuvre _5.jpg)
+![image_cartel_oeuvre_5](Medias/image_cartel_oeuvre_5.jpg)
 
-#### Cette oeuvre ma fait sentir détendu à cause de ressemblance flagrante à l'eau. C'était comme si on regardait un fleuve agité de proche. L'oeuvre est consistitué d'un projecteur et d'un écran blanc placé à une certaine distance l'un de l'autre. L'oeuvre est simple et complexe à la fois à cause des multiples façon qu'on peut les représentés. 
+#### Ce dispositif est un peu plus inabituel à cause de sa forme et de ses effets. Il est composés de deux murs inclinés vers l'extérieur placé en forme de carré incomplet fait ressentir un univers naturel remplie de bruit et de vibrations natureles. Un système de sons est placé sur l'extérieur de chacun des deux murs. Son branchement est très bien dissimulé à l'extérieur de la structure.
 
-![image_projecteur_oeuvre_4](Medias/image_projecteur_oeuvre_4.jpg)
+![image_systeme_sons](Medias/image_systeme_sons_oeuvre_5.jpg)
+![image_branchement_oeuvre_5](Medias/image_branchement_oeuvre_5.jpg)
 
-#### Cet écran bleu m'a fait sentir au bord d'un fleuve et m'a fait réfléchir. Il m'a fait sentir en paix avec moi-même. J'ai trouvé le concept génial, l'idée originale et l'intention derière intéressante. Pour cette oeuvre je n'ai pas de point négatifs vu que le seul élément manquant était le sons, mais l'intention de l'auteur, qui était que le sons des autres oeuvres était complémentaire à celle-ci, était si bien penser que je donne à cette oeuvre un 10/10.
+#### Personnelement j'ai détesté cet oeuvre pas à cause de son concept ou de sa forme, mais plutôt à cause des vibrations créé par les systèmes de sons collé aux murs. Ceux-ci m'ont vraiment dérangé et ne m'ont pas donner envie de rester dans cet environnement plus de 5 secondes. Les points positifs de l'oeuvre pour moi ont vraiment été l'esthétic. Le branchement bien dissimulé et simple, l'inclinaison des murs a aussi ajouté un plus et la forme en général était quelque chose d'intéressant. 
