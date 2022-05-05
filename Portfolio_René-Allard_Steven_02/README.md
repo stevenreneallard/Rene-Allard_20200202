@@ -3,4 +3,4 @@
 * #### Contagion de la terreur
 * #### Horloge d'appocalypse
 * #### Configuration du sensible
-* #### Salle Claude-Legault
+* #### Exposition muséale des collections autochtones
