@@ -1,4 +1,4 @@
-## 
+## Mécanisme de dessaisissement (rond, carré, triangle)
 
 ![image_oeuvre_3](Medias/image_oeuvre_3.jpg)
 ![image_oeuvre_1](Medias/image_oeuvre_1.jpg)
