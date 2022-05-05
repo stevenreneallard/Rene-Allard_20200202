@@ -1,18 +1,22 @@
-## Le Fleuve
+## 
 
-![image_oeuvre_4](Medias/image_oeuvre_4.jpg)
+![image_oeuvre_3](Medias/image_oeuvre_3.jpg)
+![image_oeuvre_1](Medias/image_oeuvre_1.jpg)
+![image_oeuvre_2](Medias/image_oeuvre_2.jpg)
 
 * ### Béchard Hudon
-* #### 2021
-* #### Configuration du sensible
+* #### 2019-2021
+* ####  Configuration du sensible
 * #### Salle Alfred-Pellan
 * #### Visité le 9 mars
 
 ### Cartel:
-![image_cartel_oevure_4](Medias/image_cartel_oeuvre_4.jpg)
+![image_cartel_oeuvre_1_2_3](Medias/image_cartel_oeuvre_1_2_3.jpg)
 
-#### Cette oeuvre ma fait sentir détendu à cause de ressemblance flagrante à l'eau. C'était comme si on regardait un fleuve agité de proche. L'oeuvre est consistitué d'un projecteur et d'un écran blanc placé à une certaine distance l'un de l'autre. L'oeuvre est simple et complexe à la fois à cause des multiples façon qu'on peut les représentés. 
+#### Les dispositifs sont accrochés sur le mur gauche de la pièce distancés d'environ deux mètres chacun. Plusieurs projecteur les illuminent de façon à faire ressortir le mécanisme. Des petites lumières sont placées sur le dos de l'oeuvre pour réaliser un effet visuel. Le branchement des oeuvres est à la fois cacher et visible. L'auteur tenait à faire resortir l'imperfection de ses oeuvres en montrant les cables de connections et le branchement au mur.
 
-![image_projecteur_oeuvre_4](Medias/image_projecteur_oeuvre_4.jpg)
+![image_branchement_oeuvre_3](Medias/image_branchement_oeuvre_3.jpg)
+![image_branchement_oeuvre_1](Medias/image_branchement_oeuvre_1.jpg)
+![image_branchement_oeuvre_2](Medias/image_branchement_oeuvre_2.jpg)
 
-#### Cet écran bleu m'a fait sentir au bord d'un fleuve et m'a fait réfléchir. Il m'a fait sentir en paix avec moi-même. J'ai trouvé le concept génial, l'idée originale et l'intention derière intéressante. Pour cette oeuvre je n'ai pas de point négatifs vu que le seul élément manquant était le sons, mais l'intention de l'auteur, qui était que le sons des autres oeuvres était complémentaire à celle-ci, était si bien penser que je donne à cette oeuvre un 10/10.
+#### Ces oeuvres m'ont fait vivre une expérience de détente surtout à cause de son bruit de fonctionnement qui n'est pas si bruyant, donc il faut être assez silencieux pour l'écouter. J'ai bien aimé le mouvement ipnotisant que les dispositifs exécutent à cause de la forme créer par ceux-ci. Celui-ci fait en sorte que notre attention est rapidement capté par l'oeuvre. Si on se déplace lors de ce mouvement, il peut être différent dépendamment de notre position et de la vitesse à laquelle nous allons. Le meilleur geste à poser serait de rester stable et de regarder l'oeuvre en action. Le seul négatif que j'ai trouver à propos de ces oeuvres à été le bruit qui peut être aggaçant à la longue.
