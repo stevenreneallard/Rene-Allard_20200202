@@ -10,6 +10,18 @@ L'horloge d'appocalypse a été présenté à l'exposition du 24 au 28 mars 2022
 
 L'oeuvre était constitué d'une pièce dans laquelle se trouve un projecteur, un système de sons, un détecteur de mouvement, un système d'éclairage qui est dirigé vers un certain point, une horloge posé sur un poteau et un un ancien téléphone à cadran. L'éclairage est fixé pour illuminé l'endroit où nous devons nous placer (devant l'horloge) pour commencer l'expérience. Les projecteurs sont dirigé sur les écrans qui sont placés en avant et sur les deux cotés de la pièce. Les systèmes sonores sont placés aux quatres coins de la pièce pour vraiment vivre l'immersion.
 
+![image_projecteur](Medias/image_projecteur.jpg)
+![image_systeme_sons](Medias/image_systeme_sons.jpg)
+![image_camera](Medias/image_camera.jpg)
+![image_eclairage](Medias/image_eclairage.jpg)
+
+
+![image_horloge_telephone](Medias/image_horloge_telephone.jpg)
+![image_decord](Medias/image_decor.jpg)
+![image_selphie](Medias/image_selphie.jpg)
+
+
+
 Mon expérience à été surprenante, c'était quelque chose auquel je ne m'attendais pas, c'était quelque chose d'inabituel mais d'intéressant. J'ai commencé par me placer au milieu de la pièce pour ensuite activer le jeu, puis j'ai continué pour changer les thèmes selon ce que je voulais voir. Rendu vers la fin le téléphone à sonner, j'ai répondu et un petit message à joué. J'ai bien aimé le concept du projet et tous les effets spéciaux qui y sont présentés. La seule amélioration que j'aurais fait serait à propos du décor, plus précisement à propos des images présentées. Je les aurais fait plus réaliste, mais considérant leur temps de création et les matériels utilisés les résultats sont très satisfaisants. Honnètement, j'ai trouver le projet génial et satisfaisant. La tâche réalisé à été parfaitement accompli à leur façon et je n'apporterai aucun changement.
 
 Pour le classement, il reste le même que ce que j'avais choisi avant la visite, donc 1-Horloge d'appocalypse 2-3 minutes 3-Chère Sasha 4-Chronofrage 5-Jeu temporel 6-Distorsion Collective, car le déroulement des projets s'est passé comme je l'avais prévu.
