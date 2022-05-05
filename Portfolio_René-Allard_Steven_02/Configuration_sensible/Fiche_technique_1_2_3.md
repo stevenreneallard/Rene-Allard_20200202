@@ -6,7 +6,7 @@
 
 * ### Béchard Hudon
 * #### 2019-2021
-* ####  Configuration du sensible
+* #### Configuration du sensible
 * #### Salle Alfred-Pellan
 * #### Visité le 9 mars
 
