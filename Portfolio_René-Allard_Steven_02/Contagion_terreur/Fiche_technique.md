@@ -1,4 +1,5 @@
 # La Contagion de la Terrreur (Présenté par: Steven René-Allard)
+![image_entre](https://uploads.agoramtl.com/original/3X/2/1/2179f9d2ff0647e1b5a715726ac1965ee8d26f90.jpeg)
 
 ## Table des matières
 * #### 1.Informations sur l'oeuvre
@@ -39,4 +40,4 @@
 [![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/08Z86x7ISl4/0.jpg)](http://www.youtube.com/watch?v=08Z86x7ISl4). 
 
 ## Source: 
-* #### https://uploads.agoramtl.com/original/3X/2/1/2179f9d2ff0647e1b5a715726ac1965ee8d26f90.jpeg
+* #### Image_entre: https://uploads.agoramtl.com/original/3X/2/1/2179f9d2ff0647e1b5a715726ac1965ee8d26f90.jpeg
