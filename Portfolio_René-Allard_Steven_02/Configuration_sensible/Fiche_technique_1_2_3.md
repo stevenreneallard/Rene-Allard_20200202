@@ -6,14 +6,14 @@
 
 * ### Béchard Hudon
 * #### 2019-2021
-* ####  Configuration du sensible
+* #### Configuration du sensible
 * #### Salle Alfred-Pellan
 * #### Visité le 9 mars
 
 ### Cartel:
 ![image_cartel_oeuvre_1_2_3](Medias/image_cartel_oeuvre_1_2_3.jpg)
 
-#### Les dispositifs sont accrochés sur le mur gauche de la pièce distancés d'environ deux mètres chacun. Plusieurs projecteur les illuminent de façon à faire ressortir le mécanisme. Des petites lumières sont placées sur le dos de l'oeuvre pour réaliser un effet visuel. Le branchement des oeuvres est à la fois cacher et visible. L'auteur tenait à faire resortir l'imperfection de ses oeuvres en montrant les cables de connections et le branchement au mur.
+#### Les dispositifs sont accrochés sur le mur gauche de la pièce distancés d'environ deux mètres chacun. Plusieurs projecteurs les illuminent de façon à faire ressortir le mécanisme. Des petites lumières sont placées sur le dos de l'oeuvre pour réaliser un effet visuel. Le branchement des oeuvres est à la fois cacheé et visible. L'auteur tenait à faire resortir l'imperfection de ses oeuvres en montrant les cables de connections et le branchement au mur.
 
 ![image_branchement_oeuvre_3](Medias/image_branchement_oeuvre_3.jpg)
 ![image_branchement_oeuvre_1](Medias/image_branchement_oeuvre_1.jpg)
