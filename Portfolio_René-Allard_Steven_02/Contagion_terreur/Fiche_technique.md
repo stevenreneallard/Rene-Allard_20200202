@@ -15,13 +15,23 @@
 
 
 # Description 
-![image_cartel_4](Medias/image_cartel_4.jpg)
-## Entré: 
+### Entré (pas d'image): 
 * #### Grand/Espacé 
-* #### Petit bureau de réception (gauche de la pièce)
-* #### 
+* #### Petit bureau de réception (à droite de la pièce)
+* #### Instruction/équipement
+
+### Salle 1:
+![image_salle_1](https://macm.org/app/uploads/2021/10/Forensic_salle_B_32.jpg)
 
 
+
+
+
+
+
+
+### Salle 3:
+![image_salle_3](https://content.forensic-architecture.org/wp-content/uploads/2021/11/Forensic_salle_A_11-1600x970.jpg)
 
 
 
@@ -41,3 +51,5 @@
 
 ## Source: 
 * #### Image_entre: https://uploads.agoramtl.com/original/3X/2/1/2179f9d2ff0647e1b5a715726ac1965ee8d26f90.jpeg
+* #### Image_salle_1: https://macm.org/app/uploads/2021/10/Forensic_salle_B_32.jpg
+* #### Image_salle_3: https://content.forensic-architecture.org/wp-content/uploads/2021/11/Forensic_salle_A_11-1600x970.jpg
